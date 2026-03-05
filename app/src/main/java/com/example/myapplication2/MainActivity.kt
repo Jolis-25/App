@@ -29,6 +29,7 @@ class MainActivity : AppCompatActivity() {
         Log.i("myapp", "Continuando")
 
 
+
         super.onResume()
     }
 
