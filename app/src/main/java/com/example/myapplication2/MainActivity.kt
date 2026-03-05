@@ -27,6 +27,7 @@ class MainActivity : AppCompatActivity() {
 
     override fun onResume() {
         Log.i("myapp", "Continuando")
+
         super.onResume()
     }
 
